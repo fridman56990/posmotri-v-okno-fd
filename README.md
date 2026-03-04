@@ -1,1 +1,1 @@
-https://fridman56990.github.io/posmotri-v-okno-fd/
+https://github.com/fridman56990/posmotri-v-okno-fd
